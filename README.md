@@ -1,0 +1,2 @@
+# Very-large-scale-ciruit-Integeration-VLSCI-
+Content CP: Constraint-Programming-related files (see README inside the src folder) SAT: Propositional-Satisfiability-related files instances: problem instances util: code useful for all the parts (parsing, solution display...) Required packages:  drawSvg (pip3 install drawSvg) minizinc (see README inside the CP/src folder) z3 (see README inside the SAT/src folder)
